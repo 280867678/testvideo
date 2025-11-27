@@ -2,7 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:19
 #EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-KEY:METHOD=AES-128,URI="/storage/emulated/0/mt2/hls_output/mkv//encryption.key",IV=0x4093dae6cd38a2cd96f9b379d20aac8c
+#EXT-X-KEY:METHOD=AES-128,URI="encryption.key",IV=0x4093dae6cd38a2cd96f9b379d20aac8c
 #EXTINF:10.800000,
 000.ts
 #EXTINF:13.720000,
